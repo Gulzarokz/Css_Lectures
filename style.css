@@ -1,0 +1,111 @@
+/* Padding css */
+/* h1{
+    color: blue;
+
+} */
+/* 
+.test{
+    border: 2px solid blue; */
+    /* padding: 30px; */
+    /* padding-top: 10px;
+    padding-left: 80px;
+    padding-right: 10px;
+    padding-bottom: 50px; */
+
+    /* padding: 20px 10px 50px 100px ; */
+
+
+    Margin css
+h1{
+    margin: 0;
+    margin:  0px 0px 90px 100px;
+}
+
+.first{
+    border:  2px solid black;
+    /* margin-bottom: 50px; */
+    
+}
+.second{
+    border:  2px solid blue;
+    /* margin-top: 40px; */
+    margin: 10px 30px 0px 0px;
+}
+.third{
+
+    width: 500px;
+    border:  2px solid green;
+    /* margin-top: 40px; */
+    margin:  100px auto 50px auto;
+}
+
+
+/* css height */
+h1{
+    color: blue;
+}
+
+/* .width{
+    border: 2px solid black;
+    width: 500px;
+    /* width: 50%; */
+    /* min-height: 100px;
+    max-height: 100px; */
+
+
+/* } */ 
+
+/* css minimum width and minimum height */
+
+/* .min-width{
+    border: 3px solid black;
+    /* width:  300px; */
+    /* min-width: 100%;
+    max-width: 800px; */
+
+
+
+/* box-sixing */
+
+/* .Box{
+    width: 500px;
+    border: 1px solid black;
+    padding: 50px;
+    /* box-sizing: border-box; */
+    /* box-sizing: content-box; */
+
+
+
+/* .over{
+    border: 1px solid black;
+    width: 250px;
+    height: 250px; */
+    /* overflow: hidden; */
+    /* overflow: scroll; */
+    /* overflow: auto; */
+    /* overflow: visible; */
+
+
+    
+    
+
+/* h1{
+    color: yellow;
+} */
+
+/* border radius */
+
+.border_radius{
+    border: 1px solid black;
+    width: 250px;
+    height: 250px;
+    margin: auto;
+    /* border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px; */
+    /* border-radius: 10px 20px 30px 40px; */
+    border-radius: 50%;
+    text-align: center;
+    background-color: pink;
+}
